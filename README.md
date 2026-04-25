@@ -2,6 +2,8 @@
 
 An AI-powered note-taking and summarization API built with Django REST Framework. Users can create notes, organize them into collections, and request AI-generated summaries powered by Groq's LLaMA model.
 
+**Live API:** https://briefly-api-4eip.onrender.com/api/docs/
+
 ## Tech Stack
 
 - **Backend:** Django 6, Django REST Framework
